@@ -1,0 +1,1844 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="900" height="900" version="1.1" id="toplevel"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"><polygon points="217,217 208,196 188,217 196,225"
+            fill="rgb(17, 238, 0)" stroke="black" />
+<polygon points="158,217 167,237 188,217 179,208"
+            fill="rgb(21, 234, 0)" stroke="black" />
+<polygon points="179,208 188,217 208,196 188,188"
+            fill="rgb(12, 243, 0)" stroke="black" />
+<polygon points="196,225 188,217 167,237 188,246"
+            fill="rgb(26, 229, 0)" stroke="black" />
+<polygon points="188,246 208,237 217,217 196,225"
+            fill="rgb(26, 229, 0)" stroke="black" />
+<polygon points="188,188 167,196 158,217 179,208"
+            fill="rgb(12, 243, 0)" stroke="black" />
+<polygon points="158,683 167,704 187,683 179,675"
+            fill="rgb(250, 5, 0)" stroke="black" />
+<polygon points="217,683 208,663 187,683 196,692"
+            fill="rgb(246, 9, 0)" stroke="black" />
+<polygon points="196,692 187,683 167,704 188,713"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="179,675 187,683 208,663 188,654"
+            fill="rgb(241, 14, 0)" stroke="black" />
+<polygon points="188,654 167,663 158,683 179,675"
+            fill="rgb(241, 14, 0)" stroke="black" />
+<polygon points="188,713 208,704 217,683 196,692"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="625,217 634,237 654,217 645,208"
+            fill="rgb(9, 246, 0)" stroke="black" />
+<polygon points="683,217 675,196 654,217 663,225"
+            fill="rgb(5, 250, 0)" stroke="black" />
+<polygon points="663,225 654,217 634,237 654,246"
+            fill="rgb(14, 241, 0)" stroke="black" />
+<polygon points="645,208 654,217 675,196 654,188"
+            fill="rgb(0, 255, 0)" stroke="black" />
+<polygon points="654,188 634,196 625,217 645,208"
+            fill="rgb(0, 255, 0)" stroke="black" />
+<polygon points="654,246 675,237 683,217 663,225"
+            fill="rgb(14, 241, 0)" stroke="black" />
+<polygon points="625,683 634,704 654,683 645,675"
+            fill="rgb(238, 17, 0)" stroke="black" />
+<polygon points="683,683 675,663 654,683 663,692"
+            fill="rgb(234, 21, 0)" stroke="black" />
+<polygon points="663,692 654,683 634,704 654,713"
+            fill="rgb(243, 12, 0)" stroke="black" />
+<polygon points="645,675 654,683 675,663 654,654"
+            fill="rgb(229, 26, 0)" stroke="black" />
+<polygon points="654,654 634,663 625,683 645,675"
+            fill="rgb(229, 26, 0)" stroke="black" />
+<polygon points="654,713 675,704 683,683 663,692"
+            fill="rgb(243, 12, 0)" stroke="black" />
+<polygon points="380,490 398,483 412,492 399,509"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="123,602 146,608 145,634 123,630"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="399,509 384,525 366,512 380,490"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="146,608 147,582 170,588 168,612"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="722,237 733,224 749,230 741,251"
+            fill="rgb(115, 140, 0)" stroke="black" />
+<polygon points="600,522 611,540 591,554 581,535"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="774,613 800,625 800,654 766,647"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="593,692 589,667 611,663 612,686"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="545,633 530,647 517,633 528,617"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="217,775 217,800 188,800 188,771"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="523,763 513,739 532,726 543,748"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="727,170 746,155 752,183 737,184"
+            fill="rgb(57, 198, 0)" stroke="black" />
+<polygon points="729,731 738,715 759,714 748,746"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="777,560 760,558 747,537 775,534"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="595,606 616,614 613,637 584,636"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="597,471 610,490 591,502 579,485"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="647,363 644,386 620,379 630,362"
+            fill="rgb(243, 12, 0)" stroke="black" />
+<polygon points="137,295 141,280 156,277 157,298"
+            fill="rgb(191, 64, 0)" stroke="black" />
+<polygon points="481,543 474,563 453,552 460,534"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="300,350 282,363 265,342 290,330"
+            fill="rgb(239, 16, 0)" stroke="black" />
+<polygon points="124,547 148,556 147,582 124,575"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="419,472 442,480 436,508 412,492"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="346,500 355,482 380,490 366,512"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="318,251 321,278 297,282 291,262"
+            fill="rgb(166, 89, 0)" stroke="black" />
+<polygon points="436,508 417,525 399,509 412,492"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="338,653 317,651 322,632 335,639"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="356,530 366,512 384,525 372,537"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="267,645 291,642 291,668 270,666"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="146,608 123,602 124,575 147,582"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="366,422 380,429 380,444 360,442"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="560,548 582,570 573,592 549,576"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="474,460 500,477 491,499 467,488"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="127,268 123,289 100,304 100,275"
+            fill="rgb(190, 65, 0)" stroke="black" />
+<polygon points="124,547 100,538 100,508 126,521"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="449,434 466,438 474,460 446,456"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="436,508 463,513 460,534 444,528"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="543,748 557,765 538,800 523,763"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="451,155 451,126 481,125 482,150"
+            fill="rgb(38, 217, 0)" stroke="black" />
+<polygon points="603,125 572,130 567,100 596,100"
+            fill="rgb(9, 246, 0)" stroke="black" />
+<polygon points="513,427 500,409 519,397 530,414"
+            fill="rgb(251, 4, 0)" stroke="black" />
+<polygon points="658,125 630,124 625,100 654,100"
+            fill="rgb(5, 250, 0)" stroke="black" />
+<polygon points="122,449 122,467 100,479 100,450"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="429,659 410,650 416,632 437,640"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="692,131 658,125 654,100 683,100"
+            fill="rgb(5, 250, 0)" stroke="black" />
+<polygon points="675,237 683,217 703,218 695,238"
+            fill="rgb(110, 145, 0)" stroke="black" />
+<polygon points="396,150 394,125 422,126 421,150"
+            fill="rgb(40, 215, 0)" stroke="black" />
+<polygon points="227,557 240,538 257,552 247,568"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="748,775 742,800 713,800 727,777"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="539,125 510,125 508,100 537,100"
+            fill="rgb(11, 244, 0)" stroke="black" />
+<polygon points="349,774 333,800 304,800 326,765"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="776,212 800,217 800,246 773,239"
+            fill="rgb(106, 149, 0)" stroke="black" />
+<polygon points="766,647 800,654 800,683 775,682"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="241,506 229,487 250,478 255,495"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="777,586 800,596 800,625 774,613"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="767,270 800,275 800,304 773,302"
+            fill="rgb(161, 94, 0)" stroke="black" />
+<polygon points="559,653 567,677 546,688 540,665"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="451,126 422,126 421,100 450,100"
+            fill="rgb(15, 240, 0)" stroke="black" />
+<polygon points="712,100 742,100 747,126 726,123"
+            fill="rgb(1, 254, 0)" stroke="black" />
+<polygon points="124,575 100,567 100,538 124,547"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="296,565 311,577 299,593 283,579"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="772,442 800,450 800,479 772,473"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="775,534 800,537 800,567 777,560"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="773,504 800,508 800,537 775,534"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="630,124 603,125 596,100 625,100"
+            fill="rgb(6, 249, 0)" stroke="black" />
+<polygon points="422,126 394,125 392,100 421,100"
+            fill="rgb(17, 238, 0)" stroke="black" />
+<polygon points="634,594 637,614 616,614 619,598"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="500,477 522,489 514,509 491,499"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="586,747 567,748 561,733 579,722"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="378,776 363,800 333,800 349,774"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="572,130 539,125 537,100 567,100"
+            fill="rgb(11, 244, 0)" stroke="black" />
+<polygon points="266,774 288,767 304,800 275,800"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="600,275 621,275 620,296 601,296"
+            fill="rgb(167, 88, 0)" stroke="black" />
+<polygon points="510,125 481,125 479,100 508,100"
+            fill="rgb(12, 243, 0)" stroke="black" />
+<polygon points="363,330 338,325 344,301 366,307"
+            fill="rgb(208, 47, 0)" stroke="black" />
+<polygon points="616,614 595,606 606,583 619,598"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="726,123 692,131 683,100 712,100"
+            fill="rgb(3, 252, 0)" stroke="black" />
+<polygon points="727,777 713,800 683,800 703,771"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="277,500 256,521 241,506 255,495"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="669,293 684,279 700,284 693,304"
+            fill="rgb(168, 87, 0)" stroke="black" />
+<polygon points="501,772 523,763 538,800 508,800"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="776,184 800,187 800,217 776,212"
+            fill="rgb(80, 175, 0)" stroke="black" />
+<polygon points="775,682 800,683 800,712 778,701"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="777,560 800,567 800,596 777,586"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="206,500 204,478 217,467 229,487"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="726,695 728,672 742,663 751,687"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="481,125 451,126 450,100 479,100"
+            fill="rgb(14, 241, 0)" stroke="black" />
+<polygon points="100,479 122,467 138,475 131,496"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="241,320 245,338 229,352 221,325"
+            fill="rgb(230, 25, 0)" stroke="black" />
+<polygon points="282,363 269,374 253,367 265,342"
+            fill="rgb(244, 11, 0)" stroke="black" />
+<polygon points="127,341 100,333 100,304 131,316"
+            fill="rgb(226, 29, 0)" stroke="black" />
+<polygon points="291,642 317,651 314,674 291,668"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="298,472 294,447 316,444 320,467"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="318,251 291,262 277,247 296,232"
+            fill="rgb(148, 107, 0)" stroke="black" />
+<polygon points="677,346 700,358 695,378 671,369"
+            fill="rgb(235, 20, 0)" stroke="black" />
+<polygon points="126,521 100,508 100,479 131,496"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="330,355 319,338 338,325 342,345"
+            fill="rgb(232, 23, 0)" stroke="black" />
+<polygon points="291,668 314,674 308,696 287,688"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="477,421 466,438 449,434 454,413"
+            fill="rgb(254, 1, 0)" stroke="black" />
+<polygon points="705,257 722,237 741,251 731,271"
+            fill="rgb(133, 122, 0)" stroke="black" />
+<polygon points="325,387 304,400 294,381 312,368"
+            fill="rgb(248, 7, 0)" stroke="black" />
+<polygon points="728,643 741,624 766,647 742,663"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="241,320 261,316 265,342 245,338"
+            fill="rgb(225, 30, 0)" stroke="black" />
+<polygon points="593,692 597,713 579,722 573,700"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="272,287 282,309 261,316 258,300"
+            fill="rgb(200, 55, 0)" stroke="black" />
+<polygon points="229,487 241,506 223,521 206,500"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="223,521 241,506 256,521 240,538"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="308,503 298,472 320,467 329,486"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="567,677 573,700 553,712 546,688"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="772,473 800,479 800,508 773,504"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="476,774 474,750 494,748 501,772"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="584,636 560,614 573,592 595,606"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="475,252 457,268 441,252 459,237"
+            fill="rgb(144, 111, 0)" stroke="black" />
+<polygon points="442,480 467,488 463,513 436,508"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="463,513 486,521 481,543 460,534"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="486,521 509,531 504,553 481,543"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="547,456 532,472 513,458 529,442"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="566,239 542,232 550,212 564,220"
+            fill="rgb(114, 141, 0)" stroke="black" />
+<polygon points="340,412 339,441 316,444 312,421"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="491,499 514,509 509,531 486,521"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="645,330 677,346 671,369 647,363"
+            fill="rgb(227, 28, 0)" stroke="black" />
+<polygon points="446,456 422,450 426,427 449,434"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="514,509 535,517 532,540 509,531"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="526,564 504,553 509,531 532,540"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="340,463 359,463 355,482 341,477"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="100,625 123,630 122,657 100,654"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="239,449 217,467 198,445 218,435"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="467,488 491,499 486,521 463,513"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="446,456 474,460 467,488 442,480"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="675,663 678,646 700,640 692,662"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="154,506 131,496 138,475 160,483"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="754,369 776,381 773,411 742,398"
+            fill="rgb(245, 10, 0)" stroke="black" />
+<polygon points="172,563 148,556 151,530 174,537"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="800,275 767,270 773,239 800,246"
+            fill="rgb(133, 122, 0)" stroke="black" />
+<polygon points="250,478 274,474 277,500 255,495"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="668,394 644,386 647,363 671,369"
+            fill="rgb(244, 11, 0)" stroke="black" />
+<polygon points="694,426 663,424 668,394 694,401"
+            fill="rgb(249, 6, 0)" stroke="black" />
+<polygon points="131,316 155,321 153,346 127,341"
+            fill="rgb(232, 23, 0)" stroke="black" />
+<polygon points="513,739 523,763 501,772 494,748"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="772,473 773,504 745,501 744,468"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="735,563 712,555 717,527 747,537"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="672,507 652,517 641,497 663,485"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="675,237 695,238 705,257 680,262"
+            fill="rgb(129, 126, 0)" stroke="black" />
+<polygon points="754,369 760,352 777,356 776,381"
+            fill="rgb(233, 22, 0)" stroke="black" />
+<polygon points="151,530 154,506 177,513 174,537"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="147,582 148,556 172,563 170,588"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="154,253 127,268 122,240 141,231"
+            fill="rgb(155, 100, 0)" stroke="black" />
+<polygon points="584,636 613,637 611,663 589,667"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="653,463 639,442 663,424 676,453"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="800,421 773,411 776,381 800,392"
+            fill="rgb(247, 8, 0)" stroke="black" />
+<polygon points="239,449 218,435 215,410 244,417"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="624,774 653,769 654,800 625,800"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="538,279 522,266 534,250 552,262"
+            fill="rgb(151, 104, 0)" stroke="black" />
+<polygon points="726,695 751,687 759,714 738,715"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="145,634 144,659 122,657 123,630"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="223,382 247,390 244,417 215,410"
+            fill="rgb(251, 4, 0)" stroke="black" />
+<polygon points="728,203 737,184 752,183 753,207"
+            fill="rgb(76, 179, 0)" stroke="black" />
+<polygon points="773,411 800,421 800,450 772,442"
+            fill="rgb(251, 4, 0)" stroke="black" />
+<polygon points="198,445 191,418 215,410 218,435"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="239,449 269,448 274,474 250,478"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="396,150 369,151 366,125 394,125"
+            fill="rgb(41, 214, 0)" stroke="black" />
+<polygon points="773,504 775,534 747,537 745,501"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="153,372 127,368 127,341 153,346"
+            fill="rgb(245, 10, 0)" stroke="black" />
+<polygon points="756,576 777,586 774,613 750,600"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="744,468 744,436 772,442 772,473"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="149,431 125,424 127,397 158,404"
+            fill="rgb(254, 1, 0)" stroke="black" />
+<polygon points="274,395 290,408 291,424 269,422"
+            fill="rgb(253, 2, 0)" stroke="black" />
+<polygon points="539,125 539,149 510,149 510,125"
+            fill="rgb(34, 221, 0)" stroke="black" />
+<polygon points="451,155 463,173 453,192 432,176"
+            fill="rgb(72, 183, 0)" stroke="black" />
+<polygon points="291,262 297,282 272,287 275,269"
+            fill="rgb(173, 82, 0)" stroke="black" />
+<polygon points="573,592 560,614 540,598 549,576"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="598,388 588,373 604,361 620,379"
+            fill="rgb(244, 11, 0)" stroke="black" />
+<polygon points="279,750 287,736 306,750 288,767"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="282,309 272,287 297,282 302,302"
+            fill="rgb(192, 63, 0)" stroke="black" />
+<polygon points="718,431 744,436 744,468 712,463"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="577,210 563,195 580,181 593,197"
+            fill="rgb(86, 169, 0)" stroke="black" />
+<polygon points="685,760 699,740 716,751 703,771"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="680,155 692,131 713,152 698,165"
+            fill="rgb(38, 217, 0)" stroke="black" />
+<polygon points="611,540 600,522 621,509 631,529"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="100,742 100,713 124,706 131,726"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="100,158 126,170 121,194 100,188"
+            fill="rgb(91, 164, 0)" stroke="black" />
+<polygon points="748,299 748,280 767,270 773,302"
+            fill="rgb(162, 93, 0)" stroke="black" />
+<polygon points="671,369 695,378 694,401 668,394"
+            fill="rgb(245, 10, 0)" stroke="black" />
+<polygon points="349,774 326,765 341,741 362,751"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="352,208 371,182 393,205 374,222"
+            fill="rgb(103, 152, 0)" stroke="black" />
+<polygon points="644,386 668,394 663,424 637,407"
+            fill="rgb(248, 7, 0)" stroke="black" />
+<polygon points="341,150 313,148 309,125 338,125"
+            fill="rgb(43, 212, 0)" stroke="black" />
+<polygon points="540,665 530,647 545,633 559,653"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="766,647 741,624 750,600 774,613"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="319,338 300,350 290,330 309,321"
+            fill="rgb(228, 27, 0)" stroke="black" />
+<polygon points="601,249 580,255 566,239 588,228"
+            fill="rgb(129, 126, 0)" stroke="black" />
+<polygon points="566,239 564,220 577,210 588,228"
+            fill="rgb(112, 143, 0)" stroke="black" />
+<polygon points="482,150 510,149 509,173 483,173"
+            fill="rgb(58, 197, 0)" stroke="black" />
+<polygon points="481,359 471,378 451,367 461,349"
+            fill="rgb(243, 12, 0)" stroke="black" />
+<polygon points="308,503 334,520 326,541 300,536"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="100,275 100,246 122,240 127,268"
+            fill="rgb(165, 90, 0)" stroke="black" />
+<polygon points="532,472 522,489 500,477 513,458"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="589,667 593,692 573,700 567,677"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="685,325 677,346 645,330 667,315"
+            fill="rgb(205, 50, 0)" stroke="black" />
+<polygon points="282,363 294,381 274,395 269,374"
+            fill="rgb(247, 8, 0)" stroke="black" />
+<polygon points="683,800 654,800 653,769 674,776"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="344,301 322,299 321,278 345,278"
+            fill="rgb(184, 71, 0)" stroke="black" />
+<polygon points="529,442 513,458 495,442 513,427"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="595,606 573,592 582,570 606,583"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="526,564 519,585 496,574 504,553"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="300,536 326,541 320,561 306,555"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="519,699 521,670 540,665 546,688"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="239,217 260,233 242,250 230,235"
+            fill="rgb(137, 118, 0)" stroke="black" />
+<polygon points="294,447 291,424 312,421 316,444"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="535,517 514,509 522,489 540,499"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="215,304 221,325 200,327 200,310"
+            fill="rgb(215, 40, 0)" stroke="black" />
+<polygon points="582,570 560,548 581,535 591,554"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="229,352 245,338 265,342 253,367"
+            fill="rgb(243, 12, 0)" stroke="black" />
+<polygon points="244,417 269,422 269,448 239,449"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="601,296 620,296 616,316 603,310"
+            fill="rgb(185, 70, 0)" stroke="black" />
+<polygon points="652,517 631,529 621,509 641,497"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="300,350 312,368 294,381 282,363"
+            fill="rgb(245, 10, 0)" stroke="black" />
+<polygon points="495,442 477,421 500,409 513,427"
+            fill="rgb(253, 2, 0)" stroke="black" />
+<polygon points="317,651 338,653 345,680 314,674"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="450,669 439,690 418,678 429,659"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="557,765 567,748 586,747 577,773"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="320,467 316,444 339,441 340,463"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="302,302 309,321 290,330 282,309"
+            fill="rgb(210, 45, 0)" stroke="black" />
+<polygon points="308,503 329,486 346,500 334,520"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="386,337 411,339 417,368 382,367"
+            fill="rgb(240, 15, 0)" stroke="black" />
+<polygon points="520,322 529,339 509,344 509,329"
+            fill="rgb(216, 39, 0)" stroke="black" />
+<polygon points="366,512 356,530 334,520 346,500"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="451,155 432,176 419,166 421,150"
+            fill="rgb(61, 194, 0)" stroke="black" />
+<polygon points="504,553 496,574 474,563 481,543"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="775,682 778,701 759,714 751,687"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="131,496 154,506 151,530 126,521"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="382,367 357,352 363,330 386,337"
+            fill="rgb(236, 19, 0)" stroke="black" />
+<polygon points="366,307 344,301 345,278 372,280"
+            fill="rgb(185, 70, 0)" stroke="black" />
+<polygon points="641,497 630,476 653,463 663,485"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="417,525 401,541 384,525 399,509"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="550,483 540,499 522,489 532,472"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="316,605 328,588 347,602 333,617"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="606,583 606,564 620,558 628,575"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="239,449 250,478 229,487 217,467"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="642,297 620,296 621,275 641,274"
+            fill="rgb(166, 89, 0)" stroke="black" />
+<polygon points="489,340 509,344 507,372 481,359"
+            fill="rgb(236, 19, 0)" stroke="black" />
+<polygon points="507,372 509,344 529,339 540,364"
+            fill="rgb(236, 19, 0)" stroke="black" />
+<polygon points="520,322 509,329 496,323 508,308"
+            fill="rgb(205, 50, 0)" stroke="black" />
+<polygon points="540,499 552,505 555,520 535,517"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="277,217 294,203 314,215 296,232"
+            fill="rgb(119, 136, 0)" stroke="black" />
+<polygon points="340,412 360,388 378,403 366,422"
+            fill="rgb(251, 4, 0)" stroke="black" />
+<polygon points="474,460 495,442 513,458 500,477"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="231,628 236,609 259,622 245,633"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="340,412 366,422 360,442 339,441"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="662,634 659,608 682,602 687,623"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="420,557 401,541 417,525 434,540"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="453,552 442,570 420,557 434,540"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="471,378 461,395 441,385 451,367"
+            fill="rgb(246, 9, 0)" stroke="black" />
+<polygon points="565,313 553,295 574,277 583,301"
+            fill="rgb(180, 75, 0)" stroke="black" />
+<polygon points="509,344 489,340 496,323 509,329"
+            fill="rgb(217, 38, 0)" stroke="black" />
+<polygon points="601,439 622,424 639,442 617,457"
+            fill="rgb(254, 1, 0)" stroke="black" />
+<polygon points="229,123 253,125 256,153 237,145"
+            fill="rgb(46, 209, 0)" stroke="black" />
+<polygon points="422,450 446,456 442,480 419,472"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="718,431 694,426 694,401 716,403"
+            fill="rgb(250, 5, 0)" stroke="black" />
+<polygon points="322,299 344,301 338,325 323,314"
+            fill="rgb(203, 52, 0)" stroke="black" />
+<polygon points="575,359 564,375 540,364 561,344"
+            fill="rgb(240, 15, 0)" stroke="black" />
+<polygon points="538,800 557,765 577,773 567,800"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="634,594 619,598 606,583 628,575"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="378,557 401,541 420,557 405,576"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="265,342 261,316 282,309 290,330"
+            fill="rgb(220, 35, 0)" stroke="black" />
+<polygon points="496,574 519,585 509,604 487,593"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="417,368 441,385 432,405 408,395"
+            fill="rgb(248, 7, 0)" stroke="black" />
+<polygon points="461,395 471,378 487,391 475,402"
+            fill="rgb(248, 7, 0)" stroke="black" />
+<polygon points="334,520 356,530 349,550 326,541"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="311,577 320,561 340,570 328,588"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="304,800 288,767 306,750 326,765"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="380,490 379,465 399,467 398,483"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="256,153 286,149 289,169 269,175"
+            fill="rgb(68, 187, 0)" stroke="black" />
+<polygon points="296,232 277,247 260,233 277,217"
+            fill="rgb(134, 121, 0)" stroke="black" />
+<polygon points="600,275 601,296 583,301 574,277"
+            fill="rgb(170, 85, 0)" stroke="black" />
+<polygon points="426,427 432,405 454,413 449,434"
+            fill="rgb(253, 2, 0)" stroke="black" />
+<polygon points="800,187 776,184 774,156 800,158"
+            fill="rgb(53, 202, 0)" stroke="black" />
+<polygon points="246,100 275,100 281,125 253,125"
+            fill="rgb(23, 232, 0)" stroke="black" />
+<polygon points="535,517 555,520 560,548 532,540"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="217,467 204,478 188,470 198,445"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="474,460 466,438 477,421 495,442"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="308,503 277,500 274,474 298,472"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="312,368 330,355 344,371 325,387"
+            fill="rgb(245, 10, 0)" stroke="black" />
+<polygon points="630,476 617,457 639,442 653,463"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="400,446 399,467 379,465 380,444"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="751,687 742,663 766,647 775,682"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="507,372 487,391 471,378 481,359"
+            fill="rgb(245, 10, 0)" stroke="black" />
+<polygon points="363,583 340,570 349,550 378,557"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="281,125 286,149 256,153 253,125"
+            fill="rgb(46, 209, 0)" stroke="black" />
+<polygon points="328,588 340,570 363,583 347,602"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="420,557 442,570 431,590 405,576"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="412,492 398,483 399,467 419,472"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="572,514 581,535 560,548 555,520"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="477,612 487,593 509,604 498,622"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="300,536 282,524 277,500 308,503"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="451,367 441,385 417,368 436,357"
+            fill="rgb(244, 11, 0)" stroke="black" />
+<polygon points="227,557 247,568 241,588 219,579"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="540,364 540,392 519,397 507,372"
+            fill="rgb(246, 9, 0)" stroke="black" />
+<polygon points="522,295 508,308 491,297 507,281"
+            fill="rgb(181, 74, 0)" stroke="black" />
+<polygon points="253,367 269,374 274,395 247,390"
+            fill="rgb(248, 7, 0)" stroke="black" />
+<polygon points="378,557 405,576 390,603 363,583"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="338,325 363,330 357,352 342,345"
+            fill="rgb(229, 26, 0)" stroke="black" />
+<polygon points="477,421 454,413 461,395 475,402"
+            fill="rgb(250, 5, 0)" stroke="black" />
+<polygon points="481,359 461,349 469,331 489,340"
+            fill="rgb(229, 26, 0)" stroke="black" />
+<polygon points="581,535 572,514 591,502 600,522"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="341,150 338,125 366,125 369,151"
+            fill="rgb(43, 212, 0)" stroke="black" />
+<polygon points="217,775 243,776 246,800 217,800"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="540,499 550,483 563,497 552,505"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="304,400 290,408 274,395 294,381"
+            fill="rgb(250, 5, 0)" stroke="black" />
+<polygon points="382,367 417,368 408,395 390,389"
+            fill="rgb(246, 9, 0)" stroke="black" />
+<polygon points="532,472 547,456 565,469 550,483"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="616,316 605,332 592,318 603,310"
+            fill="rgb(199, 56, 0)" stroke="black" />
+<polygon points="356,530 372,537 378,557 349,550"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="411,339 386,337 388,313 409,317"
+            fill="rgb(216, 39, 0)" stroke="black" />
+<polygon points="340,570 320,561 326,541 349,550"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="622,424 601,439 581,418 607,406"
+            fill="rgb(252, 3, 0)" stroke="black" />
+<polygon points="441,385 461,395 454,413 432,405"
+            fill="rgb(249, 6, 0)" stroke="black" />
+<polygon points="584,636 559,653 545,633 560,614"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="705,257 731,271 724,292 700,284"
+            fill="rgb(154, 101, 0)" stroke="black" />
+<polygon points="419,472 399,467 400,446 422,450"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="451,367 436,357 439,337 461,349"
+            fill="rgb(237, 18, 0)" stroke="black" />
+<polygon points="601,296 603,310 592,318 583,301"
+            fill="rgb(187, 68, 0)" stroke="black" />
+<polygon points="703,602 701,617 687,623 682,602"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="555,520 552,505 563,497 572,514"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="508,308 496,323 479,314 491,297"
+            fill="rgb(196, 59, 0)" stroke="black" />
+<polygon points="432,405 426,427 398,420 408,395"
+            fill="rgb(251, 4, 0)" stroke="black" />
+<polygon points="508,253 494,238 516,225 520,243"
+            fill="rgb(130, 125, 0)" stroke="black" />
+<polygon points="382,367 360,388 344,371 357,352"
+            fill="rgb(245, 10, 0)" stroke="black" />
+<polygon points="540,364 564,375 560,393 540,392"
+            fill="rgb(245, 10, 0)" stroke="black" />
+<polygon points="431,590 421,611 390,603 405,576"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="330,355 342,345 357,352 344,371"
+            fill="rgb(243, 12, 0)" stroke="black" />
+<polygon points="384,525 401,541 378,557 372,537"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="489,340 469,331 479,314 496,323"
+            fill="rgb(212, 43, 0)" stroke="black" />
+<polygon points="628,575 620,558 640,548 648,567"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="201,351 200,376 178,374 177,349"
+            fill="rgb(245, 10, 0)" stroke="black" />
+<polygon points="429,313 439,337 411,339 409,317"
+            fill="rgb(214, 41, 0)" stroke="black" />
+<polygon points="366,307 388,313 386,337 363,330"
+            fill="rgb(212, 43, 0)" stroke="black" />
+<polygon points="773,302 800,304 800,333 775,329"
+            fill="rgb(188, 67, 0)" stroke="black" />
+<polygon points="363,800 378,776 397,775 392,800"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="375,636 386,652 369,665 357,647"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="577,210 564,220 550,212 563,195"
+            fill="rgb(99, 156, 0)" stroke="black" />
+<polygon points="677,346 685,325 709,337 700,358"
+            fill="rgb(215, 40, 0)" stroke="black" />
+<polygon points="417,368 411,339 439,337 436,357"
+            fill="rgb(236, 19, 0)" stroke="black" />
+<polygon points="291,424 290,408 304,400 312,421"
+            fill="rgb(253, 2, 0)" stroke="black" />
+<polygon points="278,706 287,688 308,696 299,717"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="206,500 182,492 188,470 204,478"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="312,368 300,350 319,338 330,355"
+            fill="rgb(243, 12, 0)" stroke="black" />
+<polygon points="322,632 333,617 347,630 335,639"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="393,205 414,191 429,207 410,221"
+            fill="rgb(103, 152, 0)" stroke="black" />
+<polygon points="240,538 227,557 202,540 223,521"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="229,352 253,367 247,390 223,382"
+            fill="rgb(247, 8, 0)" stroke="black" />
+<polygon points="508,253 520,243 534,250 522,266"
+            fill="rgb(142, 113, 0)" stroke="black" />
+<polygon points="695,378 712,384 716,403 694,401"
+            fill="rgb(246, 9, 0)" stroke="black" />
+<polygon points="422,450 400,446 398,420 426,427"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="450,749 425,747 425,717 454,724"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="628,575 648,567 655,586 634,594"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="269,422 244,417 247,390 274,395"
+            fill="rgb(252, 3, 0)" stroke="black" />
+<polygon points="489,640 498,622 517,633 507,649"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="312,421 304,400 325,387 340,412"
+            fill="rgb(251, 4, 0)" stroke="black" />
+<polygon points="800,712 800,742 776,745 778,726"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="340,412 325,387 344,371 360,388"
+            fill="rgb(248, 7, 0)" stroke="black" />
+<polygon points="347,602 363,583 390,603 364,618"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="305,622 287,609 299,593 316,605"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="507,649 520,655 521,670 501,667"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="333,617 347,602 364,618 347,630"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="372,280 394,294 388,313 366,307"
+            fill="rgb(191, 64, 0)" stroke="black" />
+<polygon points="248,647 267,645 270,666 251,666"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="489,640 507,649 501,667 480,659"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="564,375 577,381 579,394 560,393"
+            fill="rgb(246, 9, 0)" stroke="black" />
+<polygon points="410,221 392,236 374,222 393,205"
+            fill="rgb(118, 137, 0)" stroke="black" />
+<polygon points="622,424 637,407 663,424 639,442"
+            fill="rgb(252, 3, 0)" stroke="black" />
+<polygon points="510,149 539,149 542,176 509,173"
+            fill="rgb(57, 198, 0)" stroke="black" />
+<polygon points="318,251 348,257 345,278 321,278"
+            fill="rgb(163, 92, 0)" stroke="black" />
+<polygon points="607,406 622,398 637,407 622,424"
+            fill="rgb(249, 6, 0)" stroke="black" />
+<polygon points="718,431 716,403 742,398 744,436"
+            fill="rgb(250, 5, 0)" stroke="black" />
+<polygon points="491,267 508,253 522,266 507,281"
+            fill="rgb(155, 100, 0)" stroke="black" />
+<polygon points="357,647 347,630 364,618 375,636"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="560,393 579,394 581,418 555,411"
+            fill="rgb(249, 6, 0)" stroke="black" />
+<polygon points="206,500 223,521 202,540 194,518"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="475,252 491,267 474,283 457,268"
+            fill="rgb(157, 98, 0)" stroke="black" />
+<polygon points="700,284 684,279 680,262 705,257"
+            fill="rgb(149, 106, 0)" stroke="black" />
+<polygon points="259,622 236,609 241,588 266,594"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="459,650 480,659 472,679 450,669"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="634,237 614,234 609,215 625,217"
+            fill="rgb(111, 144, 0)" stroke="black" />
+<polygon points="296,232 314,215 336,228 318,251"
+            fill="rgb(131, 124, 0)" stroke="black" />
+<polygon points="421,611 431,590 455,601 446,620"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="559,149 568,163 542,176 539,149"
+            fill="rgb(53, 202, 0)" stroke="black" />
+<polygon points="408,395 398,420 378,403 390,389"
+            fill="rgb(250, 5, 0)" stroke="black" />
+<polygon points="338,175 329,197 306,188 312,170"
+            fill="rgb(85, 170, 0)" stroke="black" />
+<polygon points="540,392 541,406 530,414 519,397"
+            fill="rgb(249, 6, 0)" stroke="black" />
+<polygon points="294,203 306,188 329,197 314,215"
+            fill="rgb(103, 152, 0)" stroke="black" />
+<polygon points="333,100 362,100 366,125 338,125"
+            fill="rgb(19, 236, 0)" stroke="black" />
+<polygon points="516,225 494,238 479,218 500,212"
+            fill="rgb(115, 140, 0)" stroke="black" />
+<polygon points="155,321 157,298 184,298 178,325"
+            fill="rgb(212, 43, 0)" stroke="black" />
+<polygon points="314,674 345,680 332,707 308,696"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="546,688 553,712 532,726 519,699"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="416,632 395,630 390,603 421,611"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="731,271 741,251 767,270 748,280"
+            fill="rgb(145, 110, 0)" stroke="black" />
+<polygon points="355,719 332,707 345,680 370,699"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="144,453 122,449 125,424 149,431"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="630,725 616,721 614,706 634,704"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="390,603 395,630 375,636 364,618"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="519,699 532,726 513,739 501,721"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="567,677 559,653 584,636 589,667"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="483,173 481,194 453,192 463,173"
+            fill="rgb(79, 176, 0)" stroke="black" />
+<polygon points="659,608 662,634 636,637 637,614"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="275,100 304,100 309,125 281,125"
+            fill="rgb(22, 233, 0)" stroke="black" />
+<polygon points="532,540 560,548 549,576 526,564"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="701,681 726,695 711,719 693,709"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="703,218 695,191 712,182 728,203"
+            fill="rgb(82, 173, 0)" stroke="black" />
+<polygon points="634,663 636,637 662,634 654,654"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="712,463 744,468 745,501 718,498"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="800,392 776,381 777,356 800,362"
+            fill="rgb(240, 15, 0)" stroke="black" />
+<polygon points="675,196 695,191 703,218 683,217"
+            fill="rgb(89, 166, 0)" stroke="black" />
+<polygon points="675,704 683,683 701,681 693,709"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="487,593 477,612 455,601 465,582"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="380,444 380,429 398,420 400,446"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="174,537 202,540 196,570 172,563"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="299,717 308,696 332,707 320,729"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="519,585 540,598 528,617 509,604"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="127,397 125,424 100,421 100,392"
+            fill="rgb(254, 1, 0)" stroke="black" />
+<polygon points="771,100 800,100 800,129 773,128"
+            fill="rgb(0, 255, 0)" stroke="black" />
+<polygon points="542,232 516,225 528,202 550,212"
+            fill="rgb(108, 147, 0)" stroke="black" />
+<polygon points="469,331 455,324 455,304 479,314"
+            fill="rgb(205, 50, 0)" stroke="black" />
+<polygon points="491,297 479,314 455,304 474,283"
+            fill="rgb(187, 68, 0)" stroke="black" />
+<polygon points="672,507 677,522 664,539 652,517"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="269,422 291,424 294,447 269,448"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="192,594 170,588 172,563 196,570"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="658,125 657,149 632,146 630,124"
+            fill="rgb(27, 228, 0)" stroke="black" />
+<polygon points="436,508 444,528 434,540 417,525"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="572,130 588,153 568,163 559,149"
+            fill="rgb(42, 213, 0)" stroke="black" />
+<polygon points="366,422 378,403 398,420 380,429"
+            fill="rgb(253, 2, 0)" stroke="black" />
+<polygon points="480,659 501,667 493,689 472,679"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="143,121 158,100 187,100 170,127"
+            fill="rgb(28, 227, 0)" stroke="black" />
+<polygon points="198,265 207,285 184,298 177,273"
+            fill="rgb(182, 73, 0)" stroke="black" />
+<polygon points="637,407 622,398 620,379 644,386"
+            fill="rgb(246, 9, 0)" stroke="black" />
+<polygon points="480,659 459,650 468,630 489,640"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="321,278 322,299 302,302 297,282"
+            fill="rgb(186, 69, 0)" stroke="black" />
+<polygon points="454,724 462,700 484,710 476,729"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="482,150 481,125 510,125 510,149"
+            fill="rgb(35, 220, 0)" stroke="black" />
+<polygon points="178,374 153,372 153,346 177,349"
+            fill="rgb(245, 10, 0)" stroke="black" />
+<polygon points="617,457 630,476 610,490 597,471"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="624,774 625,800 596,800 599,775"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="318,251 336,228 358,239 348,257"
+            fill="rgb(142, 113, 0)" stroke="black" />
+<polygon points="429,207 444,222 426,237 410,221"
+            fill="rgb(117, 138, 0)" stroke="black" />
+<polygon points="439,337 429,313 455,304 455,324"
+            fill="rgb(207, 48, 0)" stroke="black" />
+<polygon points="238,171 250,186 231,194 227,181"
+            fill="rgb(90, 165, 0)" stroke="black" />
+<polygon points="634,196 630,170 655,171 654,188"
+            fill="rgb(69, 186, 0)" stroke="black" />
+<polygon points="634,704 654,713 653,732 630,725"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="167,196 147,183 158,166 171,176"
+            fill="rgb(91, 164, 0)" stroke="black" />
+<polygon points="131,726 145,717 160,724 148,740"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="190,616 188,638 167,636 168,612"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="777,356 760,352 747,329 775,329"
+            fill="rgb(212, 43, 0)" stroke="black" />
+<polygon points="380,490 355,482 359,463 379,465"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="718,498 717,527 693,524 693,500"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="100,567 124,575 123,602 100,596"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="759,714 778,726 776,745 748,746"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="329,197 338,175 371,182 352,208"
+            fill="rgb(92, 163, 0)" stroke="black" />
+<polygon points="394,294 407,280 420,294 408,302"
+            fill="rgb(184, 71, 0)" stroke="black" />
+<polygon points="493,689 484,710 462,700 472,679"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="172,438 149,431 158,404 174,422"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="453,552 474,563 465,582 442,570"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="513,427 530,414 545,427 529,442"
+            fill="rgb(253, 2, 0)" stroke="black" />
+<polygon points="675,663 654,654 662,634 678,646"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="154,506 160,483 182,492 177,513"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="611,663 613,637 636,637 634,663"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="728,203 753,207 749,230 733,224"
+            fill="rgb(97, 158, 0)" stroke="black" />
+<polygon points="414,191 432,176 453,192 429,207"
+            fill="rgb(89, 166, 0)" stroke="black" />
+<polygon points="694,426 718,431 712,463 693,446"
+            fill="rgb(254, 1, 0)" stroke="black" />
+<polygon points="507,649 517,633 530,647 520,655"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="333,617 322,632 305,622 316,605"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="376,732 362,751 341,741 355,719"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="153,372 178,374 183,397 158,404"
+            fill="rgb(249, 6, 0)" stroke="black" />
+<polygon points="718,498 693,500 686,476 712,463"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="386,652 397,644 410,650 400,666"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="158,800 167,779 188,771 188,800"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="579,394 577,381 588,373 598,388"
+            fill="rgb(245, 10, 0)" stroke="black" />
+<polygon points="157,298 156,277 177,273 184,298"
+            fill="rgb(189, 66, 0)" stroke="black" />
+<polygon points="519,585 526,564 549,576 540,598"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="202,540 174,537 177,513 194,518"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="479,218 458,211 453,192 481,194"
+            fill="rgb(98, 157, 0)" stroke="black" />
+<polygon points="395,630 416,632 410,650 397,644"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="631,529 652,517 664,539 640,548"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="288,767 266,774 258,748 279,750"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="722,237 703,218 728,203 733,224"
+            fill="rgb(102, 153, 0)" stroke="black" />
+<polygon points="256,690 278,706 268,725 248,714"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="409,317 408,302 420,294 429,313"
+            fill="rgb(196, 59, 0)" stroke="black" />
+<polygon points="450,774 450,800 421,800 423,774"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="508,308 522,295 535,310 520,322"
+            fill="rgb(193, 62, 0)" stroke="black" />
+<polygon points="679,574 689,547 712,555 706,579"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="773,239 767,270 741,251 749,230"
+            fill="rgb(125, 130, 0)" stroke="black" />
+<polygon points="716,403 712,384 721,372 742,398"
+            fill="rgb(245, 10, 0)" stroke="black" />
+<polygon points="272,287 252,276 263,261 275,269"
+            fill="rgb(172, 83, 0)" stroke="black" />
+<polygon points="663,424 694,426 693,446 676,453"
+            fill="rgb(253, 2, 0)" stroke="black" />
+<polygon points="158,800 145,781 154,769 167,779"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="140,146 143,121 170,127 161,142"
+            fill="rgb(48, 207, 0)" stroke="black" />
+<polygon points="597,471 579,485 565,469 582,454"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="620,296 642,297 645,330 616,316"
+            fill="rgb(189, 66, 0)" stroke="black" />
+<polygon points="679,574 663,560 664,539 689,547"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="177,349 178,325 200,327 201,351"
+            fill="rgb(236, 19, 0)" stroke="black" />
+<polygon points="703,218 722,237 705,257 695,238"
+            fill="rgb(118, 137, 0)" stroke="black" />
+<polygon points="516,225 542,232 534,250 520,243"
+            fill="rgb(127, 128, 0)" stroke="black" />
+<polygon points="306,750 320,729 341,741 326,765"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="168,612 170,588 192,594 190,616"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="339,441 360,442 359,463 340,463"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="386,652 375,636 395,630 397,644"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="597,713 605,730 586,747 579,722"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="298,472 274,474 269,448 294,447"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="726,695 701,681 716,660 728,672"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="188,246 208,237 218,257 198,265"
+            fill="rgb(155, 100, 0)" stroke="black" />
+<polygon points="100,450 100,421 125,424 122,449"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="126,170 100,158 100,129 140,146"
+            fill="rgb(66, 189, 0)" stroke="black" />
+<polygon points="605,730 597,713 614,706 616,721"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="338,125 309,125 304,100 333,100"
+            fill="rgb(21, 234, 0)" stroke="black" />
+<polygon points="444,222 458,211 479,218 459,237"
+            fill="rgb(116, 139, 0)" stroke="black" />
+<polygon points="457,268 474,283 455,304 438,283"
+            fill="rgb(174, 81, 0)" stroke="black" />
+<polygon points="223,382 200,376 201,351 229,352"
+            fill="rgb(246, 9, 0)" stroke="black" />
+<polygon points="439,690 450,669 472,679 462,700"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="236,609 231,628 211,622 214,601"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="407,280 394,294 372,280 391,265"
+            fill="rgb(173, 82, 0)" stroke="black" />
+<polygon points="370,699 389,714 376,732 355,719"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="215,410 199,394 200,376 223,382"
+            fill="rgb(250, 5, 0)" stroke="black" />
+<polygon points="208,237 217,217 239,217 230,235"
+            fill="rgb(131, 124, 0)" stroke="black" />
+<polygon points="450,669 429,659 437,640 459,650"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="693,304 700,284 724,292 717,315"
+            fill="rgb(175, 80, 0)" stroke="black" />
+<polygon points="347,630 357,647 338,653 335,639"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="462,700 454,724 425,717 439,690"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="598,388 607,406 581,418 579,394"
+            fill="rgb(248, 7, 0)" stroke="black" />
+<polygon points="617,457 597,471 582,454 601,439"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="385,681 370,699 345,680 369,665"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="219,579 196,570 202,540 227,557"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="309,321 323,314 338,325 319,338"
+            fill="rgb(217, 38, 0)" stroke="black" />
+<polygon points="357,647 369,665 345,680 338,653"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="236,609 214,601 219,579 241,588"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="474,750 450,749 454,724 476,729"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="491,267 475,252 494,238 508,253"
+            fill="rgb(142, 113, 0)" stroke="black" />
+<polygon points="648,567 663,560 679,574 655,586"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="409,317 388,313 394,294 408,302"
+            fill="rgb(197, 58, 0)" stroke="black" />
+<polygon points="706,579 703,602 682,602 679,574"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="609,147 613,161 599,169 588,153"
+            fill="rgb(49, 206, 0)" stroke="black" />
+<polygon points="718,498 745,501 747,537 717,527"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="772,442 744,436 742,398 773,411"
+            fill="rgb(250, 5, 0)" stroke="black" />
+<polygon points="208,663 231,665 232,686 217,683"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="459,237 479,218 494,238 475,252"
+            fill="rgb(128, 127, 0)" stroke="black" />
+<polygon points="309,321 302,302 322,299 323,314"
+            fill="rgb(203, 52, 0)" stroke="black" />
+<polygon points="654,246 660,268 641,274 639,259"
+            fill="rgb(144, 111, 0)" stroke="black" />
+<polygon points="679,574 682,602 659,608 655,586"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="215,304 200,310 184,298 207,285"
+            fill="rgb(200, 55, 0)" stroke="black" />
+<polygon points="721,610 703,602 706,579 728,588"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="469,331 461,349 439,337 455,324"
+            fill="rgb(221, 34, 0)" stroke="black" />
+<polygon points="460,534 453,552 434,540 444,528"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="313,148 341,150 338,175 312,170"
+            fill="rgb(65, 190, 0)" stroke="black" />
+<polygon points="607,406 598,388 620,379 622,398"
+            fill="rgb(247, 8, 0)" stroke="black" />
+<polygon points="123,630 100,625 100,596 123,602"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="748,299 724,292 731,271 748,280"
+            fill="rgb(161, 94, 0)" stroke="black" />
+<polygon points="519,699 493,689 501,667 521,670"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="637,614 634,594 655,586 659,608"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="355,482 346,500 329,486 341,477"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="487,391 500,409 477,421 475,402"
+            fill="rgb(250, 5, 0)" stroke="black" />
+<polygon points="253,125 229,123 217,100 246,100"
+            fill="rgb(24, 231, 0)" stroke="black" />
+<polygon points="127,368 153,372 158,404 127,397"
+            fill="rgb(249, 6, 0)" stroke="black" />
+<polygon points="507,281 491,297 474,283 491,267"
+            fill="rgb(170, 85, 0)" stroke="black" />
+<polygon points="149,431 172,438 166,461 144,453"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="352,208 336,228 314,215 329,197"
+            fill="rgb(112, 143, 0)" stroke="black" />
+<polygon points="507,372 519,397 500,409 487,391"
+            fill="rgb(248, 7, 0)" stroke="black" />
+<polygon points="552,262 534,250 542,232 566,239"
+            fill="rgb(133, 122, 0)" stroke="black" />
+<polygon points="208,663 188,654 188,638 209,642"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="642,297 641,274 660,268 669,293"
+            fill="rgb(163, 92, 0)" stroke="black" />
+<polygon points="451,155 482,150 483,173 463,173"
+            fill="rgb(60, 195, 0)" stroke="black" />
+<polygon points="214,601 192,594 196,570 219,579"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="669,293 693,304 685,325 667,315"
+            fill="rgb(186, 69, 0)" stroke="black" />
+<polygon points="376,251 391,265 372,280 365,262"
+            fill="rgb(159, 96, 0)" stroke="black" />
+<polygon points="247,568 261,575 266,594 241,588"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="709,337 685,325 693,304 717,315"
+            fill="rgb(195, 60, 0)" stroke="black" />
+<polygon points="372,280 345,278 348,257 365,262"
+            fill="rgb(165, 90, 0)" stroke="black" />
+<polygon points="382,367 390,389 378,403 360,388"
+            fill="rgb(248, 7, 0)" stroke="black" />
+<polygon points="198,445 172,438 174,422 191,418"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="187,100 206,125 188,139 170,127"
+            fill="rgb(36, 219, 0)" stroke="black" />
+<polygon points="256,690 251,666 270,666 272,681"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="207,285 198,265 218,257 226,275"
+            fill="rgb(173, 82, 0)" stroke="black" />
+<polygon points="543,748 532,726 553,712 561,733"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="137,295 123,289 127,268 141,280"
+            fill="rgb(188, 67, 0)" stroke="black" />
+<polygon points="709,337 732,352 721,372 700,358"
+            fill="rgb(227, 28, 0)" stroke="black" />
+<polygon points="716,660 700,640 712,627 728,643"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="221,748 217,775 188,771 199,751"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="748,746 748,775 727,777 729,758"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="209,642 188,638 190,616 211,622"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="168,612 167,636 145,634 146,608"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="507,281 522,266 538,279 522,295"
+            fill="rgb(167, 88, 0)" stroke="black" />
+<polygon points="581,418 563,439 545,427 555,411"
+            fill="rgb(252, 3, 0)" stroke="black" />
+<polygon points="187,100 217,100 229,123 206,125"
+            fill="rgb(26, 229, 0)" stroke="black" />
+<polygon points="586,747 602,758 599,775 577,773"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="250,186 238,171 256,153 269,175"
+            fill="rgb(78, 177, 0)" stroke="black" />
+<polygon points="621,275 600,275 601,249 625,256"
+            fill="rgb(147, 108, 0)" stroke="black" />
+<polygon points="641,274 621,275 625,256 639,259"
+            fill="rgb(148, 107, 0)" stroke="black" />
+<polygon points="457,268 438,283 423,266 441,252"
+            fill="rgb(158, 97, 0)" stroke="black" />
+<polygon points="572,130 603,125 609,147 588,153"
+            fill="rgb(32, 223, 0)" stroke="black" />
+<polygon points="231,665 251,666 256,690 232,686"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="476,729 484,710 501,721 490,733"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="567,800 577,773 599,775 596,800"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="154,769 145,781 127,777 133,757"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="287,688 278,706 256,690 272,681"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="280,191 292,183 306,188 294,203"
+            fill="rgb(95, 160, 0)" stroke="black" />
+<polygon points="167,196 171,176 189,170 188,188"
+            fill="rgb(92, 163, 0)" stroke="black" />
+<polygon points="208,196 188,188 189,170 213,177"
+            fill="rgb(91, 164, 0)" stroke="black" />
+<polygon points="208,704 211,726 186,733 188,713"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="167,704 188,713 186,733 160,724"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="349,774 362,751 378,759 378,776"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="408,251 426,237 441,252 423,266"
+            fill="rgb(145, 110, 0)" stroke="black" />
+<polygon points="675,237 680,262 660,268 654,246"
+            fill="rgb(135, 120, 0)" stroke="black" />
+<polygon points="131,316 137,295 157,298 155,321"
+            fill="rgb(210, 45, 0)" stroke="black" />
+<polygon points="266,594 261,575 270,565 283,579"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="421,150 419,166 401,172 396,150"
+            fill="rgb(60, 195, 0)" stroke="black" />
+<polygon points="450,749 474,750 476,774 450,774"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="240,538 256,521 270,536 257,552"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="188,771 168,753 186,733 199,751"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="601,249 600,275 574,277 580,255"
+            fill="rgb(148, 107, 0)" stroke="black" />
+<polygon points="226,275 218,257 242,250 240,268"
+            fill="rgb(164, 91, 0)" stroke="black" />
+<polygon points="211,622 231,628 229,646 209,642"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="653,732 641,750 620,748 630,725"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="700,640 678,646 662,634 687,623"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="479,218 481,194 505,196 500,212"
+            fill="rgb(98, 157, 0)" stroke="black" />
+<polygon points="604,361 588,373 575,359 590,345"
+            fill="rgb(237, 18, 0)" stroke="black" />
+<polygon points="750,600 728,588 735,563 756,576"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="742,663 728,672 716,660 728,643"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="746,155 726,143 726,123 747,126"
+            fill="rgb(23, 232, 0)" stroke="black" />
+<polygon points="407,280 423,266 438,283 420,294"
+            fill="rgb(172, 83, 0)" stroke="black" />
+<polygon points="275,800 246,800 243,776 266,774"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="459,237 441,252 426,237 444,222"
+            fill="rgb(130, 125, 0)" stroke="black" />
+<polygon points="392,800 397,775 423,774 421,800"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="601,439 582,454 563,439 581,418"
+            fill="rgb(254, 1, 0)" stroke="black" />
+<polygon points="637,614 636,637 613,637 616,614"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="208,237 230,235 242,250 218,257"
+            fill="rgb(148, 107, 0)" stroke="black" />
+<polygon points="698,165 689,176 675,174 680,155"
+            fill="rgb(54, 201, 0)" stroke="black" />
+<polygon points="418,678 404,697 385,681 400,666"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="239,217 262,202 277,217 260,233"
+            fill="rgb(121, 134, 0)" stroke="black" />
+<polygon points="597,713 593,692 612,686 614,706"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="229,352 201,351 200,327 221,325"
+            fill="rgb(236, 19, 0)" stroke="black" />
+<polygon points="177,349 153,346 155,321 178,325"
+            fill="rgb(235, 20, 0)" stroke="black" />
+<polygon points="550,483 565,469 579,485 563,497"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="508,800 479,800 476,774 501,772"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="252,276 240,268 242,250 263,261"
+            fill="rgb(165, 90, 0)" stroke="black" />
+<polygon points="563,195 550,212 528,202 542,176"
+            fill="rgb(88, 167, 0)" stroke="black" />
+<polygon points="555,411 545,427 530,414 541,406"
+            fill="rgb(251, 4, 0)" stroke="black" />
+<polygon points="376,251 365,262 348,257 358,239"
+            fill="rgb(149, 106, 0)" stroke="black" />
+<polygon points="148,740 133,757 100,742 131,726"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="450,774 476,774 479,800 450,800"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="741,624 728,643 712,627 721,610"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="261,316 241,320 239,295 258,300"
+            fill="rgb(205, 50, 0)" stroke="black" />
+<polygon points="599,169 613,161 630,170 610,185"
+            fill="rgb(61, 194, 0)" stroke="black" />
+<polygon points="238,731 221,748 211,726 226,721"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="561,344 577,330 590,345 575,359"
+            fill="rgb(224, 31, 0)" stroke="black" />
+<polygon points="127,397 100,392 100,363 127,368"
+            fill="rgb(249, 6, 0)" stroke="black" />
+<polygon points="238,731 226,721 229,707 248,714"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="446,620 455,601 477,612 468,630"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="238,171 227,181 213,177 223,161"
+            fill="rgb(81, 174, 0)" stroke="black" />
+<polygon points="605,730 616,721 630,725 620,748"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="654,246 639,259 625,256 634,237"
+            fill="rgb(133, 122, 0)" stroke="black" />
+<polygon points="555,411 541,406 540,392 560,393"
+            fill="rgb(249, 6, 0)" stroke="black" />
+<polygon points="539,149 539,125 572,130 559,149"
+            fill="rgb(34, 221, 0)" stroke="black" />
+<polygon points="299,717 320,729 306,750 287,736"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="640,548 620,558 611,540 631,529"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="259,622 267,645 248,647 245,633"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="431,590 442,570 465,582 455,601"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="320,561 311,577 296,565 306,555"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="728,588 706,579 712,555 735,563"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="340,463 341,477 329,486 320,467"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="498,622 489,640 468,630 477,612"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="664,539 677,522 693,524 689,547"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="207,285 226,275 239,295 215,304"
+            fill="rgb(190, 65, 0)" stroke="black" />
+<polygon points="547,456 563,439 582,454 565,469"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="698,165 712,182 695,191 689,176"
+            fill="rgb(64, 191, 0)" stroke="black" />
+<polygon points="699,740 682,730 693,709 711,719"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="221,325 215,304 239,295 241,320"
+            fill="rgb(209, 46, 0)" stroke="black" />
+<polygon points="100,771 127,777 129,800 100,800"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="100,129 100,100 129,100 127,116"
+            fill="rgb(29, 226, 0)" stroke="black" />
+<polygon points="669,293 667,315 645,330 642,297"
+            fill="rgb(187, 68, 0)" stroke="black" />
+<polygon points="519,699 501,721 484,710 493,689"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="605,332 616,316 645,330 620,347"
+            fill="rgb(209, 46, 0)" stroke="black" />
+<polygon points="231,665 208,663 209,642 229,646"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="451,126 451,155 421,150 422,126"
+            fill="rgb(40, 215, 0)" stroke="black" />
+<polygon points="391,265 408,251 423,266 407,280"
+            fill="rgb(158, 97, 0)" stroke="black" />
+<polygon points="158,217 167,237 154,253 141,231"
+            fill="rgb(142, 113, 0)" stroke="black" />
+<polygon points="683,800 674,776 685,760 703,771"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="773,302 775,329 747,329 748,299"
+            fill="rgb(187, 68, 0)" stroke="black" />
+<polygon points="771,800 773,772 800,771 800,800"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="529,442 545,427 563,439 547,456"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="487,593 465,582 474,563 496,574"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="459,650 437,640 446,620 468,630"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="429,313 420,294 438,283 455,304"
+            fill="rgb(188, 67, 0)" stroke="black" />
+<polygon points="566,239 580,255 574,277 552,262"
+            fill="rgb(144, 111, 0)" stroke="black" />
+<polygon points="421,611 446,620 437,640 416,632"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="572,514 563,497 579,485 591,502"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="540,364 529,339 548,327 561,344"
+            fill="rgb(224, 31, 0)" stroke="black" />
+<polygon points="379,465 359,463 360,442 380,444"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="752,183 746,155 774,156 776,184"
+            fill="rgb(53, 202, 0)" stroke="black" />
+<polygon points="620,347 604,361 590,345 605,332"
+            fill="rgb(224, 31, 0)" stroke="black" />
+<polygon points="148,556 124,547 126,521 151,530"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="140,146 158,166 147,183 126,170"
+            fill="rgb(79, 176, 0)" stroke="black" />
+<polygon points="609,215 593,197 610,185 617,197"
+            fill="rgb(87, 168, 0)" stroke="black" />
+<polygon points="167,663 158,683 143,682 144,659"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="728,588 750,600 741,624 721,610"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="742,398 721,372 732,352 754,369"
+            fill="rgb(242, 13, 0)" stroke="black" />
+<polygon points="729,731 711,719 726,695 738,715"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="727,170 737,184 728,203 712,182"
+            fill="rgb(68, 187, 0)" stroke="black" />
+<polygon points="753,207 752,183 776,184 776,212"
+            fill="rgb(78, 177, 0)" stroke="black" />
+<polygon points="800,712 778,726 759,714 778,701"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="669,293 660,268 680,262 684,279"
+            fill="rgb(155, 100, 0)" stroke="black" />
+<polygon points="675,174 655,171 657,149 680,155"
+            fill="rgb(50, 205, 0)" stroke="black" />
+<polygon points="336,228 352,208 374,222 358,239"
+            fill="rgb(123, 132, 0)" stroke="black" />
+<polygon points="429,659 418,678 400,666 410,650"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="231,628 245,633 248,647 229,646"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="198,445 188,470 166,461 172,438"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="439,690 425,717 404,697 418,678"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="299,717 287,736 268,725 278,706"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="242,250 260,233 277,247 263,261"
+            fill="rgb(149, 106, 0)" stroke="black" />
+<polygon points="557,765 543,748 561,733 567,748"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="100,304 123,289 137,295 131,316"
+            fill="rgb(205, 50, 0)" stroke="black" />
+<polygon points="776,212 773,239 749,230 753,207"
+            fill="rgb(101, 154, 0)" stroke="black" />
+<polygon points="542,176 528,202 505,196 509,173"
+            fill="rgb(80, 175, 0)" stroke="black" />
+<polygon points="370,699 385,681 404,697 389,714"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="391,265 376,251 392,236 408,251"
+            fill="rgb(146, 109, 0)" stroke="black" />
+<polygon points="653,463 676,453 686,476 663,485"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="476,729 490,733 494,748 474,750"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="369,665 386,652 400,666 385,681"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="158,800 129,800 127,777 145,781"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="158,100 143,121 127,116 129,100"
+            fill="rgb(26, 229, 0)" stroke="black" />
+<polygon points="272,287 258,300 239,295 252,276"
+            fill="rgb(188, 67, 0)" stroke="black" />
+<polygon points="100,333 127,341 127,368 100,363"
+            fill="rgb(244, 11, 0)" stroke="black" />
+<polygon points="100,683 122,682 124,706 100,713"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="122,449 144,453 138,475 122,467"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="444,222 429,207 453,192 458,211"
+            fill="rgb(103, 152, 0)" stroke="black" />
+<polygon points="100,217 100,188 121,194 119,217"
+            fill="rgb(115, 140, 0)" stroke="black" />
+<polygon points="800,742 800,771 773,772 776,745"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="188,771 167,779 154,769 168,753"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="620,558 606,564 591,554 611,540"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="206,500 194,518 177,513 182,492"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="742,100 771,100 773,128 747,126"
+            fill="rgb(1, 254, 0)" stroke="black" />
+<polygon points="313,148 312,170 289,169 286,149"
+            fill="rgb(65, 190, 0)" stroke="black" />
+<polygon points="481,194 483,173 509,173 505,196"
+            fill="rgb(79, 176, 0)" stroke="black" />
+<polygon points="270,565 257,552 270,536 283,551"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="498,622 509,604 528,617 517,633"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="341,150 369,151 371,182 338,175"
+            fill="rgb(67, 188, 0)" stroke="black" />
+<polygon points="754,369 732,352 747,329 760,352"
+            fill="rgb(221, 34, 0)" stroke="black" />
+<polygon points="620,748 641,750 653,769 624,774"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="231,194 250,186 262,202 239,217"
+            fill="rgb(105, 150, 0)" stroke="black" />
+<polygon points="300,536 306,555 296,565 283,551"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="266,594 287,609 279,623 259,622"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="177,273 156,277 154,253 173,258"
+            fill="rgb(170, 85, 0)" stroke="black" />
+<polygon points="542,176 568,163 580,181 563,195"
+            fill="rgb(71, 184, 0)" stroke="black" />
+<polygon points="573,700 579,722 561,733 553,712"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="425,717 403,725 389,714 404,697"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="287,688 272,681 270,666 291,668"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="396,747 397,775 378,776 378,759"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="742,800 748,775 773,772 771,800"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="800,158 774,156 773,128 800,129"
+            fill="rgb(27, 228, 0)" stroke="black" />
+<polygon points="247,568 257,552 270,565 261,575"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="189,170 173,152 188,139 205,151"
+            fill="rgb(64, 191, 0)" stroke="black" />
+<polygon points="583,301 592,318 577,330 565,313"
+            fill="rgb(197, 58, 0)" stroke="black" />
+<polygon points="148,740 160,724 186,733 168,753"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="131,726 124,706 144,703 145,717"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="158,166 173,152 189,170 171,176"
+            fill="rgb(77, 178, 0)" stroke="black" />
+<polygon points="653,769 641,750 653,732 669,748"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="522,295 538,279 553,295 535,310"
+            fill="rgb(179, 76, 0)" stroke="black" />
+<polygon points="126,170 147,183 140,203 121,194"
+            fill="rgb(99, 156, 0)" stroke="black" />
+<polygon points="213,177 227,181 231,194 208,196"
+            fill="rgb(94, 161, 0)" stroke="black" />
+<polygon points="645,330 647,363 630,362 620,347"
+            fill="rgb(227, 28, 0)" stroke="black" />
+<polygon points="410,221 426,237 408,251 392,236"
+            fill="rgb(131, 124, 0)" stroke="black" />
+<polygon points="215,141 205,151 188,139 206,125"
+            fill="rgb(51, 204, 0)" stroke="black" />
+<polygon points="317,651 291,642 305,622 322,632"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="396,747 425,747 423,774 397,775"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="414,191 393,205 371,182 401,172"
+            fill="rgb(87, 168, 0)" stroke="black" />
+<polygon points="605,332 590,345 577,330 592,318"
+            fill="rgb(211, 44, 0)" stroke="black" />
+<polygon points="777,586 756,576 760,558 777,560"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="775,329 800,333 800,362 777,356"
+            fill="rgb(214, 41, 0)" stroke="black" />
+<polygon points="564,375 575,359 588,373 577,381"
+            fill="rgb(244, 11, 0)" stroke="black" />
+<polygon points="394,125 366,125 362,100 392,100"
+            fill="rgb(18, 237, 0)" stroke="black" />
+<polygon points="223,161 213,177 189,170 205,151"
+            fill="rgb(74, 181, 0)" stroke="black" />
+<polygon points="620,748 624,774 599,775 602,758"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="229,707 232,686 256,690 248,714"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="593,197 609,215 588,228 577,210"
+            fill="rgb(100, 155, 0)" stroke="black" />
+<polygon points="221,748 199,751 186,733 211,726"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="630,170 634,196 617,197 610,185"
+            fill="rgb(75, 180, 0)" stroke="black" />
+<polygon points="392,236 376,251 358,239 374,222"
+            fill="rgb(134, 121, 0)" stroke="black" />
+<polygon points="320,729 332,707 355,719 341,741"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="291,642 267,645 259,622 279,623"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="211,726 208,704 229,707 226,721"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="603,125 630,124 632,146 609,147"
+            fill="rgb(28, 227, 0)" stroke="black" />
+<polygon points="748,746 776,745 773,772 748,775"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="574,277 553,295 538,279 552,262"
+            fill="rgb(163, 92, 0)" stroke="black" />
+<polygon points="610,185 593,197 580,181 599,169"
+            fill="rgb(73, 182, 0)" stroke="black" />
+<polygon points="266,594 283,579 299,593 287,609"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="215,410 191,418 183,397 199,394"
+            fill="rgb(252, 3, 0)" stroke="black" />
+<polygon points="208,196 231,194 239,217 217,217"
+            fill="rgb(112, 143, 0)" stroke="black" />
+<polygon points="709,337 717,315 747,329 732,352"
+            fill="rgb(206, 49, 0)" stroke="black" />
+<polygon points="634,196 625,217 609,215 617,197"
+            fill="rgb(93, 162, 0)" stroke="black" />
+<polygon points="672,507 693,500 693,524 677,522"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="161,142 170,127 188,139 173,152"
+            fill="rgb(53, 202, 0)" stroke="black" />
+<polygon points="432,176 414,191 401,172 419,166"
+            fill="rgb(75, 180, 0)" stroke="black" />
+<polygon points="208,704 217,683 232,686 229,707"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="746,155 747,126 773,128 774,156"
+            fill="rgb(26, 229, 0)" stroke="black" />
+<polygon points="675,663 692,662 701,681 683,683"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="328,588 316,605 299,593 311,577"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="277,500 282,524 270,536 256,521"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="144,659 145,634 167,636 167,663"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="521,670 520,655 530,647 540,665"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="141,231 122,240 119,217 133,216"
+            fill="rgb(135, 120, 0)" stroke="black" />
+<polygon points="167,663 167,636 188,638 188,654"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="561,344 548,327 565,313 577,330"
+            fill="rgb(210, 45, 0)" stroke="black" />
+<polygon points="609,215 614,234 601,249 588,228"
+            fill="rgb(117, 138, 0)" stroke="black" />
+<polygon points="606,583 582,570 591,554 606,564"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="450,749 450,774 423,774 425,747"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="648,567 640,548 664,539 663,560"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="258,748 266,774 243,776 240,758"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="675,196 654,188 655,171 675,174"
+            fill="rgb(69, 186, 0)" stroke="black" />
+<polygon points="675,704 671,722 653,732 654,713"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="144,659 143,682 122,682 122,657"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="188,246 173,258 154,253 167,237"
+            fill="rgb(154, 101, 0)" stroke="black" />
+<polygon points="280,191 269,175 289,169 292,183"
+            fill="rgb(85, 170, 0)" stroke="black" />
+<polygon points="182,492 160,483 166,461 188,470"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="313,148 286,149 281,125 309,125"
+            fill="rgb(44, 211, 0)" stroke="black" />
+<polygon points="200,376 199,394 183,397 178,374"
+            fill="rgb(249, 6, 0)" stroke="black" />
+<polygon points="127,268 154,253 156,277 141,280"
+            fill="rgb(175, 80, 0)" stroke="black" />
+<polygon points="695,191 675,196 675,174 689,176"
+            fill="rgb(70, 185, 0)" stroke="black" />
+<polygon points="693,709 682,730 671,722 675,704"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="184,298 200,310 200,327 178,325"
+            fill="rgb(215, 40, 0)" stroke="black" />
+<polygon points="198,265 177,273 173,258 188,246"
+            fill="rgb(164, 91, 0)" stroke="black" />
+<polygon points="671,722 682,730 669,748 653,732"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="634,663 625,683 612,686 611,663"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="540,598 560,614 545,633 528,617"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="300,536 283,551 270,536 282,524"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="711,719 729,731 716,751 699,740"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="712,182 698,165 713,152 727,170"
+            fill="rgb(53, 202, 0)" stroke="black" />
+<polygon points="600,522 591,502 610,490 621,509"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="214,601 211,622 190,616 192,594"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="141,231 133,216 140,203 158,217"
+            fill="rgb(126, 129, 0)" stroke="black" />
+<polygon points="687,623 701,617 712,627 700,640"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="268,725 287,736 279,750 258,748"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="724,292 748,299 747,329 717,315"
+            fill="rgb(183, 72, 0)" stroke="black" />
+<polygon points="237,145 215,141 206,125 229,123"
+            fill="rgb(45, 210, 0)" stroke="black" />
+<polygon points="672,507 663,485 686,476 693,500"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="167,704 144,703 143,682 158,683"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="695,378 700,358 721,372 712,384"
+            fill="rgb(243, 12, 0)" stroke="black" />
+<polygon points="620,347 630,362 620,379 604,361"
+            fill="rgb(238, 17, 0)" stroke="black" />
+<polygon points="516,225 500,212 505,196 528,202"
+            fill="rgb(101, 154, 0)" stroke="black" />
+<polygon points="634,237 625,256 601,249 614,234"
+            fill="rgb(128, 127, 0)" stroke="black" />
+<polygon points="630,170 632,146 657,149 655,171"
+            fill="rgb(48, 207, 0)" stroke="black" />
+<polygon points="160,724 145,717 144,703 167,704"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="158,217 140,203 147,183 167,196"
+            fill="rgb(109, 146, 0)" stroke="black" />
+<polygon points="100,246 100,217 119,217 122,240"
+            fill="rgb(140, 115, 0)" stroke="black" />
+<polygon points="100,654 122,657 122,682 100,683"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="221,748 240,758 243,776 217,775"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="248,714 268,725 258,748 238,731"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="251,666 231,665 229,646 248,647"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="692,131 680,155 657,149 658,125"
+            fill="rgb(29, 226, 0)" stroke="black" />
+<polygon points="306,188 292,183 289,169 312,170"
+            fill="rgb(82, 173, 0)" stroke="black" />
+<polygon points="717,527 712,555 689,547 693,524"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="237,145 223,161 205,151 215,141"
+            fill="rgb(60, 195, 0)" stroke="black" />
+<polygon points="291,262 275,269 263,261 277,247"
+            fill="rgb(159, 96, 0)" stroke="black" />
+<polygon points="620,748 602,758 586,747 605,730"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="630,476 641,497 621,509 610,490"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="133,757 148,740 168,753 154,769"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="140,146 161,142 173,152 158,166"
+            fill="rgb(64, 191, 0)" stroke="black" />
+<polygon points="223,161 237,145 256,153 238,171"
+            fill="rgb(66, 189, 0)" stroke="black" />
+<polygon points="703,602 721,610 712,627 701,617"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="501,721 513,739 494,748 490,733"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="389,714 403,725 396,747 376,732"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="425,717 425,747 396,747 403,725"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="221,748 238,731 258,748 240,758"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="143,121 140,146 100,129 127,116"
+            fill="rgb(44, 211, 0)" stroke="black" />
+<polygon points="100,742 133,757 127,777 100,771"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="158,404 183,397 191,418 174,422"
+            fill="rgb(253, 2, 0)" stroke="black" />
+<polygon points="700,640 716,660 701,681 692,662"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="269,175 280,191 262,202 250,186"
+            fill="rgb(94, 161, 0)" stroke="black" />
+<polygon points="712,463 686,476 676,453 693,446"
+            fill="rgb(255, 0, 0)" stroke="black" />
+<polygon points="529,339 520,322 535,310 548,327"
+            fill="rgb(207, 48, 0)" stroke="black" />
+<polygon points="630,170 613,161 609,147 632,146"
+            fill="rgb(47, 208, 0)" stroke="black" />
+<polygon points="226,275 240,268 252,276 239,295"
+            fill="rgb(179, 76, 0)" stroke="black" />
+<polygon points="553,295 565,313 548,327 535,310"
+            fill="rgb(194, 61, 0)" stroke="black" />
+<polygon points="634,704 614,706 612,686 625,683"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="699,740 685,760 669,748 682,730"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="747,537 760,558 756,576 735,563"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="144,703 124,706 122,682 143,682"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="140,203 133,216 119,217 121,194"
+            fill="rgb(118, 137, 0)" stroke="black" />
+<polygon points="283,579 270,565 283,551 296,565"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="294,203 277,217 262,202 280,191"
+            fill="rgb(107, 148, 0)" stroke="black" />
+<polygon points="653,769 669,748 685,760 674,776"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="748,746 729,758 716,751 729,731"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="746,155 727,170 713,152 726,143"
+            fill="rgb(40, 215, 0)" stroke="black" />
+<polygon points="396,150 401,172 371,182 369,151"
+            fill="rgb(65, 190, 0)" stroke="black" />
+<polygon points="588,153 599,169 580,181 568,163"
+            fill="rgb(58, 197, 0)" stroke="black" />
+<polygon points="362,751 376,732 396,747 378,759"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="703,771 716,751 729,758 727,777"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="692,131 726,123 726,143 713,152"
+            fill="rgb(25, 230, 0)" stroke="black" />
+<polygon points="160,483 138,475 144,453 166,461"
+            fill="rgb(223, 32, 0)" stroke="black" />
+<polygon points="287,609 305,622 291,642 279,623"
+            fill="rgb(223, 32, 0)" stroke="black" />
+</svg>
